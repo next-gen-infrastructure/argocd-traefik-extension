@@ -1,5 +1,5 @@
 const assert = require("node:assert");
-const { parseIngressRoute } = require("./resources/traefik-ingressroute/traefik-ingressroute.js");
+const { parseIngressRoute } = require("./resources/traefik-ingressroute/extension.js");
 
 const sample = {
   spec: {

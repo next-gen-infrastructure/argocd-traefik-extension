@@ -1,0 +1,10 @@
+{
+  "name": "argocd-traefik-extension",
+  "version": "0.1.1",
+  "description": "ArgoCD UI extension that renders Traefik IngressRoute routes as a resource tab",
+  "license": "Apache-2.0",
+  "scripts": {
+    "test": "node test.js",
+    "build": "./build.sh"
+  }
+}
